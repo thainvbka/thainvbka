@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Thai</h1>
 <h3 align="center">🌟I'm a passionate backend development student from Vietnam.</h3>
-
+<!--
 - 🌱 I’m currently learning: **Java and Spring Boot.**
- 
+ <!--
 - 📫 How to reach me: **nvthai2904@gmail.com**
-
+<!--
 - ⚡ Fun fact: **⚽ Big fan of Real Madrid. Love watching, playing, and gaming football.❤️**
 
 <h3 align="left">Connect with me:</h3>
@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/oxy.gia.29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenvanthai" height="30" width="40" /></a>
 <a href="https://instagram.com/thai_ngw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thai_ngw" height="30" width="40" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
